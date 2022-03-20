@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/responsive-article-preview-component-solution-with-flexbox-and-grid-5_sjzF6bz)
+- Live Site URL: [Live Site](https://duncan91-ops.github.io/article-preview-component/)
 
 ## My process
 
